@@ -6,3 +6,4 @@
 ## 强化学习方向
  - 1611.03673 一篇试做，仍在完善中。
  - 1.DQN 深度强化学习的开始之作，已完善版本，欢迎阅读。
+ - 2.Deep Recurrent Q-Learning for Partially Observable MDPs 对DQN的一次改进，已完善版本，环境阅读与纠错。
