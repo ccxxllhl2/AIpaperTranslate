@@ -9,3 +9,4 @@
  - 2.Deep Recurrent Q-Learning for Partially Observable MDPs 对DQN的一次改进，已完善版本，环境阅读与纠错。
  - 3.Dueling Network Architectures for Deep Reinforcement Learning 早期对DQN一次近乎完美的更新。
  - 4.Prioritized Experience Replay 在上一篇文章之前对于记忆优化的过程。
+ - 5.DDQN 是与上一篇记忆优化的同期作品，出自谷歌不同的项目团队。
